@@ -22,7 +22,7 @@ To reproduce our work, please download the following datasets from the respectiv
 | Imagenette | [Link](https://github.com/fastai/imagenette) |
 | Imagewoof | [Link](https://github.com/fastai/imagenette) |
 
-Place the datasets in the `data` folder as described below:
+Extract the segmentation zip archives from this git, and place the downloaded datasets in the `data` folder as described below:
 
 ```
     .
